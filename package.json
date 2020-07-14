@@ -1,0 +1,20 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "Web Project by Faizan Ullah and Raja Allah Rakhio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizanullah1999/WebProject.git"
+  },
+  "author": "Faizan & Allah Rakhio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizanullah1999/WebProject/issues"
+  },
+  "homepage": "https://github.com/faizanullah1999/WebProject#readme"
+}
