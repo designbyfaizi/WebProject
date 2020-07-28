@@ -70,4 +70,8 @@ $(document).ready(function(){
             }
         })
     
+
+        //PRODUCT QUANTITY SECTION
+        let $qty-up = $(".qty .qty-up");
+        let $qty-down = $(".qty .qty-down");
 });
